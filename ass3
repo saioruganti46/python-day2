@@ -1,0 +1,13 @@
+sno=int(input())
+sname=input()
+group=input()
+s1=int(input())
+s2=int(input())
+s3=int(input())
+s4=int(input())
+s5=int(input())
+s6=int(input())
+sum=s1+s2+s3+s4+s5+s6
+avg=sum/6
+print(sum)
+print(avg)
